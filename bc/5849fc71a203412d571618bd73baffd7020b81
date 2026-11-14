@@ -1,0 +1,26 @@
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_3624802e376b8e 2-4,6,9,31,53-62,78-79,104-143
+docs/CODER_RUNTIME.md
+  s_de87ccf88d98ee::t_2190a690e9942a 295-306
+  s_de87ccf88d98ee::t_35f98284a5ac08 311
+app/stage_c_arm.py
+  s_de87ccf88d98ee::t_a2c5506b41b3cb 4-6
+  s_de87ccf88d98ee::t_4f59504c5f6612 7
+  s_de87ccf88d98ee::t_35f98284a5ac08 14,30-31,33-34,38-42,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bc5849fc71a203412d571618bd73baffd7020b81",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
