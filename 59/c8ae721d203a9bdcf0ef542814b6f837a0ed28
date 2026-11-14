@@ -1,0 +1,21 @@
+app/release_gateway_service.py
+  s_de87ccf88d98ee::t_5ae68d802a3c6e 200-201,228-230,232-233,235-238
+tests/test_desk_bundle_release.py
+  s_de87ccf88d98ee::t_1d879054e87605 273-299
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "59c8ae721d203a9bdcf0ef542814b6f837a0ed28",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
