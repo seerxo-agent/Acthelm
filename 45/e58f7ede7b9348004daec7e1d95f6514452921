@@ -1,0 +1,22 @@
+tests/test_stage_c_worker_postgres.py
+  s_de87ccf88d98ee::t_36226e22976032 293
+tests/test_stage_c_worker.py
+  s_de87ccf88d98ee::t_4ca95889cdc1ba 108,578,1245,2095,2235
+  s_de87ccf88d98ee::t_36226e22976032 2320,2335,2349,2372,2389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "45e58f7ede7b9348004daec7e1d95f6514452921",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
