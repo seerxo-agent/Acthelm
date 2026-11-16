@@ -1,0 +1,54 @@
+app/control.py
+  s_de87ccf88d98ee::t_579ae656460409 290,293-296
+  s_de87ccf88d98ee::t_2fd0ef7653aa55 167-168,171-173,179-180,185-192,195
+  s_de87ccf88d98ee::t_ed04978469be53 364,366-371
+  s_de87ccf88d98ee::t_134b32b565f007 14
+app/schemas.py
+  s_de87ccf88d98ee::t_15ccfabae9c70f 302-312
+  s_de87ccf88d98ee::t_b090752e710a77 2
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_0123cab4b38ff7 545-547,550-552
+  s_de87ccf88d98ee::t_ad0a078c594358 553
+  s_de87ccf88d98ee::t_d456360c9a2e07 317
+  s_de87ccf88d98ee::t_7578ed2e29d1f7 1-268,270-316,318-544,548-549,554-883
+  s_de87ccf88d98ee::t_597cfb8d39cc63 269
+app/worker.py
+  s_de87ccf88d98ee::t_32d5c0af99d9b1 1257-1265
+  s_de87ccf88d98ee::t_01c611abfb545c 31
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_173fc4cc49643f 1-393,396,398-399,401-442
+  s_de87ccf88d98ee::t_2551c0e5996b87 394-395,397,400
+  s_de87ccf88d98ee::t_d31ae3b0936922 443-461
+app/main.py
+  s_de87ccf88d98ee::t_8efe535ef3cee6 1248-1252
+  s_de87ccf88d98ee::t_9563e5f3f0a431 1115-1116,1119-1120
+  s_de87ccf88d98ee::t_1b97edac46d60c 781-786
+  s_de87ccf88d98ee::t_1817ce415262ed 26
+  s_de87ccf88d98ee::t_e4fe6557cc5dd3 1270,1277,1283
+  s_de87ccf88d98ee::t_a72b7ddb37558a 1236,1243-1244
+  s_de87ccf88d98ee::t_3e86bed18efcf7 1206-1235,1237-1242,1245-1247,1253-1269,1271-1276,1278-1282,1284-1291
+  s_de87ccf88d98ee::t_c135106e2a3bcf 19
+app/api_auth.py
+  s_de87ccf88d98ee::t_1cb6d16d9ecf8e 133-135
+  s_de87ccf88d98ee::t_26339eb5126aa1 217-221
+  s_de87ccf88d98ee::t_886b46881579c7 64-71,73
+app/desk.py
+  s_de87ccf88d98ee::t_c528a460f98a8c 18
+  s_de87ccf88d98ee::t_086c7ab798b232 869-870
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "081632a14c6e94d9f86e75dd485fd33fb0d73618",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
