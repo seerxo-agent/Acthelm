@@ -1,0 +1,32 @@
+desk/src/lib/handoff.ts
+  s_de87ccf88d98ee::t_1805afa606826f 34-35
+  s_de87ccf88d98ee::t_a055a025a51e82 56-61
+  s_de87ccf88d98ee::t_092a45cce9d59b 23
+desk/src/lib/handoff.test.ts
+  s_de87ccf88d98ee::t_36b5043d299924 3
+  s_de87ccf88d98ee::t_0622cb43a5e36d 12,15
+  s_de87ccf88d98ee::t_92ddbe491eca7b 39-44
+desk/src/pages/handoff.tsx
+  s_de87ccf88d98ee::t_fd6c6e9a268e8e 49-51
+  s_de87ccf88d98ee::t_edfa6dc680ad74 77
+  s_de87ccf88d98ee::t_e334ad0fff5cb3 59
+  s_de87ccf88d98ee::t_7c191edd42723c 44
+  s_de87ccf88d98ee::t_26283df80f00a0 81
+  s_de87ccf88d98ee::t_f67513193be681 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d4aefa98e1a33c4e030ec646a983f3d226ec512e",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
