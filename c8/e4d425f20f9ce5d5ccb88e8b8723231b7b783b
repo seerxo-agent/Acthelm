@@ -1,0 +1,32 @@
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_6714d5059f41d4 640-641
+app/desk.py
+  s_de87ccf88d98ee::t_6714d5059f41d4 86-92
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_1425d45c98cd48 502-503
+  s_de87ccf88d98ee::t_0c030fcd60d22f 501,662-675
+desk/src/pages/handoff.tsx
+  s_de87ccf88d98ee::t_836a6364e9e792 9,47,164
+desk/src/lib/handoff.ts
+  s_de87ccf88d98ee::t_179123add9356c 5,60-61
+  s_de87ccf88d98ee::t_836a6364e9e792 57-59
+desk/src/lib/handoff.test.ts
+  s_de87ccf88d98ee::t_179123add9356c 3,39-44
+  s_de87ccf88d98ee::t_7467a8b5c05954 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c8e4d425f20f9ce5d5ccb88e8b8723231b7b783b",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
