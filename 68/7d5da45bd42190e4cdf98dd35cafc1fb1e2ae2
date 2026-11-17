@@ -1,0 +1,23 @@
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_5998990157c35f 669,671-673
+desk/src/pages/handoff.tsx
+  s_de87ccf88d98ee::t_5998990157c35f 56,78,80-81,93,123-124
+app/desk.py
+  s_de87ccf88d98ee::t_5998990157c35f 86-88,92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "687d5da45bd42190e4cdf98dd35cafc1fb1e2ae2",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
