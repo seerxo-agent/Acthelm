@@ -1,0 +1,55 @@
+desk/src/components/controls.tsx
+  s_de87ccf88d98ee::t_137e865d9ea54a 153-159
+  s_de87ccf88d98ee::t_1f4d00e9cc629e 6-7
+  s_de87ccf88d98ee::t_27af43bc02ebeb 136,142-143
+  s_de87ccf88d98ee::t_e5781983bef7f0 169-171
+app/desk.py
+  s_de87ccf88d98ee::t_8aea829f3aebe7 871-872
+desk/src/lib/stage-c.test.ts
+  s_de87ccf88d98ee::t_2437f7e5d7f353 418-429
+tests/test_stage_c_handoff_postgres.py
+  s_de87ccf88d98ee::t_2301790641ae79 51-52
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_fa077ad85dee29 161-163
+  s_de87ccf88d98ee::t_3846d5a653cf6f 750-753
+  s_de87ccf88d98ee::t_4008d938785784 122-123,125-128
+  s_de87ccf88d98ee::t_1a2d50d4a863fd 311,314
+  s_de87ccf88d98ee::t_cf425305ed15a8 269-271,273-293
+  s_de87ccf88d98ee::t_e1b4e6578458ba 976-989
+desk/src/components/detail.tsx
+  s_de87ccf88d98ee::t_6e243971c40f70 165
+app/schemas.py
+  s_de87ccf88d98ee::t_100997316fc311 309-314
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_cb430733850edc 166,209
+  s_de87ccf88d98ee::t_1d724d72437699 9
+  s_de87ccf88d98ee::t_622cb299ce22fa 556
+  s_de87ccf88d98ee::t_7dc9bce83c1a17 48-55
+  s_de87ccf88d98ee::t_9192c5705ace8b 221-222
+  s_de87ccf88d98ee::t_61376e664ea368 384-388,392-435
+  s_de87ccf88d98ee::t_87529a194fcdc1 106,108
+  s_de87ccf88d98ee::t_b3dc12ae1ce944 436-437
+desk/src/lib/api.ts
+  s_de87ccf88d98ee::t_6026ac6b2a29b8 147-150
+  s_de87ccf88d98ee::t_c70b7c5380badf 161-163
+desk/src/lib/stage-c.ts
+  s_de87ccf88d98ee::t_fadf612068a70f 244-254
+app/main.py
+  s_de87ccf88d98ee::t_fc1c80e7aad731 1212-1215,1221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f03d9f221c93de4d1b37ea6d08eaa7c60e30718d",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
