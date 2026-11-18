@@ -1,0 +1,21 @@
+.dockerignore
+  s_de87ccf88d98ee::t_f337561adbc395 1-5
+Dockerfile
+  s_de87ccf88d98ee::t_9dfa34541ae727 3-14,31-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "609fdf6a9451fe6e43580e69ad2c7f252b9b13a4",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
