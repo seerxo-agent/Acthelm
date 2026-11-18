@@ -1,0 +1,20 @@
+docs/security/DESK_BUNDLE_RELEASE.md
+  s_de87ccf88d98ee::t_e05d01f8ce157d 86-118
+  s_de87ccf88d98ee::t_5e9a077a594e4c 164-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "154a342deaa931aea3304c553148356ff7633193",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
