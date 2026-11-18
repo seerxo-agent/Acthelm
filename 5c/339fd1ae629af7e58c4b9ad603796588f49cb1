@@ -1,0 +1,28 @@
+.dockerignore
+  s_de87ccf88d98ee::t_03ddc08608ad36 1-4
+tests/test_release_archive_permissions.py
+  s_de87ccf88d98ee::t_1acf647214990e 226-227,229-255
+  s_de87ccf88d98ee::t_3cfbc3578dbeb9 228,256
+  s_de87ccf88d98ee::t_8f09ddecd55646 174-225
+app/release_gateway.py
+  s_de87ccf88d98ee::t_03ddc08608ad36 77
+scripts/deploy-company-os.sh
+  s_de87ccf88d98ee::t_4ef6161ba68da1 76-83
+  s_de87ccf88d98ee::t_03ddc08608ad36 71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5c339fd1ae629af7e58c4b9ad603796588f49cb1",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
