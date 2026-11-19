@@ -1,0 +1,27 @@
+docs/PERMANENT_FACTS.md
+  s_de87ccf88d98ee::t_ceac6562129cbb 14-15
+tests/test_repository_identity.py
+  s_de87ccf88d98ee::t_2bdac805f2d59a 1-6,22,34
+tests/test_repo_guardian_github.py
+  s_de87ccf88d98ee::t_645270a40d11e3 244
+agents/repository_guardian.yaml
+  s_de87ccf88d98ee::t_4ed372fa015583 31
+scripts/stage-c-host-wizard.sh
+  s_de87ccf88d98ee::t_ceac6562129cbb 325
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b80c438e2db66167e63c27e76e7e5914073df917",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
