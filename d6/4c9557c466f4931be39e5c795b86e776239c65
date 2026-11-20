@@ -1,0 +1,23 @@
+.github/workflows/frontend.yml
+  s_de87ccf88d98ee::t_ebf7141cfc9d54 36-37,40-47
+tests/fixtures/ci_snapshot/frontend.yml
+  s_de87ccf88d98ee::t_44b619813fed2b 36-37,40-47
+tests/test_repo_guardian_github.py
+  s_de87ccf88d98ee::t_53c302200dd28c 154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d64c9557c466f4931be39e5c795b86e776239c65",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
