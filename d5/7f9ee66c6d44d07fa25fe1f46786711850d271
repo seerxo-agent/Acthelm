@@ -1,0 +1,29 @@
+app/release_gateway.py
+  s_de87ccf88d98ee::t_283fd8fd3c09d5 583,613,628,701,743
+app/release_gateway_service.py
+  s_de87ccf88d98ee::t_25ccc8bfb938d2 44-45,203,210,215,259,345
+app/release_host.py
+  s_de87ccf88d98ee::t_9094a5edbb3f17 392
+docs/security/DESK_BUNDLE_RELEASE.md
+  s_de87ccf88d98ee::t_22e4a359c98432 1,3-6,8-9,11,13-16,18-19,21,23-27
+docs/security/RELEASE_GATEWAY.md
+  s_de87ccf88d98ee::t_98daf7437c6550 70
+tests/test_release_gateway.py
+  s_de87ccf88d98ee::t_ee06f53a832779 85,183,260,266,283,300,327,1171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d57f9ee66c6d44d07fa25fe1f46786711850d271",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Semih Buğra Sezer <semih.b.sezer@gmail.com>"
+    }
+  }
+}
