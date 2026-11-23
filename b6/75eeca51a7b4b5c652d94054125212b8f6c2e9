@@ -1,0 +1,26 @@
+tests/test_phasec_integrity_done.py
+  s_de87ccf88d98ee::t_2d90f21c3ee5e5 1-201
+  s_de87ccf88d98ee::t_df8b9f221f05a3 202-204
+tests/test_phasec_integrity_recovery.py
+  s_de87ccf88d98ee::t_a257820c389471 1-55
+app/main.py
+  s_de87ccf88d98ee::t_9ff9cabf1805d1 785-788
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_c1df27cb4be6f6 216,244-249,691-727
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b675eeca51a7b4b5c652d94054125212b8f6c2e9",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "unknown"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
