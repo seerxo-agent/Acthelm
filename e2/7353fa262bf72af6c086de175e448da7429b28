@@ -1,0 +1,21 @@
+tests/test_phasec_recovery_stall.py
+  s_de87ccf88d98ee::t_cf7ce83e6399dd 1-85
+app/watchdog.py
+  s_de87ccf88d98ee::t_0380bf88c3cfe5 50-57,249-265,268-269,273-281,284,287,289-290,293
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e27353fa262bf72af6c086de175e448da7429b28",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "unknown"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
