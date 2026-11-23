@@ -1,0 +1,19 @@
+docs/runbooks/PHASEC_E2E_PILOT.md
+  s_de87ccf88d98ee::t_a58d6fcd38ec81 18-19,37-39,43-47,49-50,81,90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc830177fc08db7285b3b30c971338cee7cbc439",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "unknown"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
