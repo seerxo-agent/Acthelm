@@ -1,0 +1,22 @@
+tests/test_phasec_recovery_resume.py
+  s_de87ccf88d98ee::t_a742a3c57ceac0 1-142
+  s_de87ccf88d98ee::t_de62a7ae359306 143-151
+app/worker.py
+  s_de87ccf88d98ee::t_97e1b75726d10e 71-81,839-911,1395,1448,1452-1453
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8ef93d49216db6416fa46a32c8435dcbc7dacefd",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
