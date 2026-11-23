@@ -1,0 +1,22 @@
+tests/test_phasec_recovery_heartbeat.py
+  s_de87ccf88d98ee::t_f49107f29e8df3 1-50
+  s_de87ccf88d98ee::t_700eb1cee193d4 51
+app/worker.py
+  s_de87ccf88d98ee::t_1bca11a1059def 55-57,759-771,780
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f0a2109675cd98f241c042c9eb5b2735bd2e394f",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
