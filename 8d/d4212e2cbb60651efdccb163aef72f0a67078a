@@ -1,0 +1,33 @@
+tests/test_r5_task_integrity.py
+  s_de87ccf88d98ee::t_d3d32effd843f9 1-133
+  s_de87ccf88d98ee::t_45a0ab9acfe40a 134-140
+docs/APPROVAL_IDENTITY.md
+  s_de87ccf88d98ee::t_ecd848e2e3c13d 54
+  s_de87ccf88d98ee::t_085e4859e051e6 62
+app/main.py
+  s_de87ccf88d98ee::t_d6f8715814c80e 371,669-682,685-696,1169
+app/stage_c.py
+  s_de87ccf88d98ee::t_b398d3a7fbfbf7 119-132,142-144
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_fa1b8597349ec5 700-702,707-713,720-721
+tests/test_phasec_integrity_done.py
+  s_de87ccf88d98ee::t_8eefa12d51960c 114-116,125-134,138,141-143,189-190,196-200
+tests/test_stage_c.py
+  s_de87ccf88d98ee::t_f4cd05f3dfc0a7 81-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8dd4212e2cbb60651efdccb163aef72f0a67078a",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
