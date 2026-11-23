@@ -1,0 +1,23 @@
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_4faf02435960c7 89-91,93-97
+docs/CODER_RUNTIME.md
+  s_de87ccf88d98ee::t_7833c73b87dae6 305-306
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_f3398bf775d768 110-119,121,132,146,203-220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a2eeb89afa14c927567bbaea5a0624b7749b9543",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
