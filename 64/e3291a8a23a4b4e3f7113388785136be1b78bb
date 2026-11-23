@@ -1,0 +1,32 @@
+app/reconciliation.py
+  s_de87ccf88d98ee::t_cff227706e61cb 1-513
+  s_de87ccf88d98ee::t_16995473840ab9 514-526
+tests/test_r5_reconciliation.py
+  s_de87ccf88d98ee::t_6ca84074c4ac0d 1-255
+  s_de87ccf88d98ee::t_5d2d81ecbc28d3 256-307
+scripts/reconciliation_dryrun.py
+  s_de87ccf88d98ee::t_66f2ee9aa69453 1-188
+  s_de87ccf88d98ee::t_c1eae4c59f3f1c 189-192
+app/api_auth.py
+  s_de87ccf88d98ee::t_b735f13627a668 72-73,138-139
+app/main.py
+  s_de87ccf88d98ee::t_bd87e2e9160a09 1231-1239
+app/worker.py
+  s_de87ccf88d98ee::t_0e29a1e9a369d9 265-269,278,1380-1381
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "64e3291a8a23a4b4e3f7113388785136be1b78bb",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
