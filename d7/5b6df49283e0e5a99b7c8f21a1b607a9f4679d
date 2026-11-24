@@ -1,0 +1,27 @@
+docs/runbooks/PHASEC_E2E_PILOT.md
+  s_de87ccf88d98ee::t_b44df75a8ebee8 77
+tests/test_pilot_check.py
+  s_de87ccf88d98ee::t_2d1f7d7df0a06b 22,60-61,73,76
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_98c56338ad55c1 220-224,229-232,237-238,240-241,243-246,248-251,255
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_89355478a4a789 332,382,393-413
+tests/test_stage_c_worker.py
+  s_de87ccf88d98ee::t_c64baf9f14de79 870,875-880
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d75b6df49283e0e5a99b7c8f21a1b607a9f4679d",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
