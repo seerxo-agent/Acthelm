@@ -1,19 +1,17 @@
-tests/test_r5_task_integrity.py
-  s_de87ccf88d98ee::t_d3d32effd843f9 1-133
-  s_de87ccf88d98ee::t_45a0ab9acfe40a 134-140
-docs/APPROVAL_IDENTITY.md
-  s_de87ccf88d98ee::t_ecd848e2e3c13d 54
-  s_de87ccf88d98ee::t_085e4859e051e6 62
 app/main.py
-  s_de87ccf88d98ee::t_d6f8715814c80e 371,669-682,685-696,1169
+  s_de87ccf88d98ee::t_4fe427eee5e24e 371,669-682,685-696,1169
 app/stage_c.py
-  s_de87ccf88d98ee::t_b398d3a7fbfbf7 119-132,142-144
+  s_de87ccf88d98ee::t_bc7294fe17c213 119-132,142-144
 app/stage_c_worker.py
-  s_de87ccf88d98ee::t_fa1b8597349ec5 700-702,707-713,720-721
+  s_de87ccf88d98ee::t_597bb315cd0506 700-702,707-713,720-721
+docs/APPROVAL_IDENTITY.md
+  s_de87ccf88d98ee::t_093103f465308d 54,62
 tests/test_phasec_integrity_done.py
-  s_de87ccf88d98ee::t_8eefa12d51960c 114-116,125-134,138,141-143,189-190,196-200
+  s_de87ccf88d98ee::t_249f57091662eb 114-116,125-134,138,141-143,189-190,196-200
 tests/test_stage_c.py
-  s_de87ccf88d98ee::t_f4cd05f3dfc0a7 81-84
+  s_de87ccf88d98ee::t_85fe6b1d95f939 81-84
+tests/test_r5_task_integrity.py
+  s_de87ccf88d98ee::t_c3725bc89d2861 1-140
 ---
 {
   "schema_version": "authorship/3.0.0",
