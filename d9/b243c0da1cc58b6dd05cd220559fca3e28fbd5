@@ -1,0 +1,31 @@
+app/stage_c_runner.py
+  s_de87ccf88d98ee::t_db9d5ff9a0e110 45,915-926,943
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_50703c7e2a5560 411
+conftest.py
+  s_de87ccf88d98ee::t_d58beb96100715 23-29,31-38
+docker-compose.yml
+  s_de87ccf88d98ee::t_02a9c146829a2e 133-136
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_a1e7aa7ca24a2f 62-65,70,75,109,131-132
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_6539f4a6657593 96,109,116-118,217-259
+tests/test_stage_c_worker.py
+  s_de87ccf88d98ee::t_af1b95c9c3c0bc 861,866-887
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d9b243c0da1cc58b6dd05cd220559fca3e28fbd5",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
