@@ -1,0 +1,23 @@
+tests/test_r5_recon.py
+  s_de87ccf88d98ee::t_424177c232929f 131,142,160,169,176,185,196,202,208,215,221,227-242,279,300
+tests/test_r5_wd.py
+  s_de87ccf88d98ee::t_5984edb9b91b2e 34,62,70,79,92,101
+tests/test_seerxo_funnel.py
+  s_de87ccf88d98ee::t_2e5f638f24acd3 222-227,229-235
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "20134490ed1c7175338af8b3029cfffbabb89f8d",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
