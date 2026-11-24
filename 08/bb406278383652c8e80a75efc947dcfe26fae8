@@ -1,0 +1,21 @@
+.github/workflows/frontend.yml
+  s_de87ccf88d98ee::t_c197b143a7d334 42-48
+tests/fixtures/ci_snapshot/frontend.yml
+  s_de87ccf88d98ee::t_4542e764e2c941 42-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "08bb406278383652c8e80a75efc947dcfe26fae8",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
