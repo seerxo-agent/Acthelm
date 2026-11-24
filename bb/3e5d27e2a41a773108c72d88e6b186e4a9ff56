@@ -1,0 +1,19 @@
+tests/test_r5_tasks.py
+  s_de87ccf88d98ee::t_30575578840a09 42,44-46,50-55,58,60-63,77,87,96,105,109-121,130,144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bb3e5d27e2a41a773108c72d88e6b186e4a9ff56",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
