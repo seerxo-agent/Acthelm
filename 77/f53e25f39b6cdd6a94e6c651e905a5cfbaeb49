@@ -1,0 +1,21 @@
+tests/test_phasec_e2e_check.py
+  s_de87ccf88d98ee::t_7b20b9822e0318 1-83
+scripts/phasec-e2e-check.py
+  s_de87ccf88d98ee::t_edea150c1de57c 1-241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "77f53e25f39b6cdd6a94e6c651e905a5cfbaeb49",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
