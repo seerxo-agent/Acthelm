@@ -1,0 +1,25 @@
+desk/src/components/dashboard/home.tsx
+  s_de87ccf88d98ee::t_58704db2bd3375 83,87,113,117
+desk/src/lib/dashboard.test.ts
+  s_de87ccf88d98ee::t_1cd88d3bb02831 133-142
+desk/src/lib/dashboard.ts
+  s_de87ccf88d98ee::t_18067460cf75e1 46-49,66,92-93
+desk/src/pages/overview.tsx
+  s_de87ccf88d98ee::t_4102aaffb0c9d4 93-94,96,108,142,146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8b77daf9d7808a1b3c16b56200718e4092ac5c89",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
