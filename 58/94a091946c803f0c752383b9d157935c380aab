@@ -1,0 +1,113 @@
+.github/workflows/frontend.yml
+  s_de87ccf88d98ee::t_31f4949bed4f87 37-38,40-41
+desk/index.html
+  s_de87ccf88d98ee::t_9aaf49401f5d28 11,15
+desk/public/manifest.webmanifest
+  s_de87ccf88d98ee::t_5847d2eaa23b60 3-5
+desk/public/sw.js
+  s_de87ccf88d98ee::t_9358920728b6c5 7
+desk/src/App.tsx
+  s_de87ccf88d98ee::t_fc6ae4309a43fc 4,11,28,44,47,61-62,65-66,70,73-74,80,84,87-88,90-92,96-97,101-124,128,132-133,135,137,144,150-152,159-160,174-175,191,228,271,321,324,329,334,361-362,372,376,383-384,387-388,390,396,494,496,498,503,508,511,534,543,563-564,567-568
+desk/src/components/charts.tsx
+  s_de87ccf88d98ee::t_79ad2068eda7c5 24,64
+desk/src/components/command-composer.tsx
+  s_de87ccf88d98ee::t_b4c76b5e41ea95 5,40-46,52,54,57,64
+desk/src/components/controls.tsx
+  s_de87ccf88d98ee::t_fdbb3974a9b4a4 6-7,42,58,95-96,111,127,135,138,142,148,150,158-159,173-174,182,207,218
+desk/src/components/delivery.tsx
+  s_de87ccf88d98ee::t_5ca62d767e67f4 42,46,48,50
+desk/src/components/desk.tsx
+  s_de87ccf88d98ee::t_1bdb27527550cf 1,3-5,24-25,35-38,57,83,162,175,177,179-181,184,211,255,269,275,277-279,285
+desk/src/components/detail.tsx
+  s_de87ccf88d98ee::t_1b15cc35fb84c1 2,4,10,23-25,72,78,86,88-90,92,100,110,112-113,120-121,128-131,134-136,138,141-148,151,154,159-161,163,181,185,187-194,197,209,212-213,216,239-240,244-253,255-263,265-267,269,271-278,285,293,378-379,394,396-397
+desk/src/components/ui/badge.tsx
+  s_de87ccf88d98ee::t_7e2bdff67d6a33 7,13
+desk/src/components/ui/button.tsx
+  s_de87ccf88d98ee::t_c510ceb8d99964 7,11,13,17,24,26-28,30,32-33
+desk/src/components/ui/card.tsx
+  s_de87ccf88d98ee::t_04b5bfee9c88b6 14
+desk/src/components/ui/empty.tsx
+  s_de87ccf88d98ee::t_b08a62cfa033de 9
+desk/src/components/ui/input.tsx
+  s_de87ccf88d98ee::t_1978bed5a960ce 10
+desk/src/components/ui/table.tsx
+  s_de87ccf88d98ee::t_8511e6a707eb90 8,57,70,83
+desk/src/components/ui/textarea.tsx
+  s_de87ccf88d98ee::t_0d48666fb74e5b 9
+desk/src/index.css
+  s_de87ccf88d98ee::t_87f0f0edd6e8ab 53,61-65,67-107,111-141,143-150,166,174,176,184,187-189,191-194,209
+desk/src/lib/api-auth-expiry.test.ts
+  s_de87ccf88d98ee::t_c7f62bfa0405ff 3
+desk/src/lib/api.ts
+  s_de87ccf88d98ee::t_c1136008f1ae9d 215
+desk/src/lib/delivery.test.ts
+  s_de87ccf88d98ee::t_79daf162c5138b 14
+desk/src/lib/delivery.ts
+  s_de87ccf88d98ee::t_7acab53206a900 20,24
+desk/src/lib/lifecycle.test.ts
+  s_de87ccf88d98ee::t_00b4368cfb4d9b 46-47
+desk/src/lib/nav.test.ts
+  s_de87ccf88d98ee::t_2f3bb75e81d728 1,4,6-7,27,29-30
+desk/src/lib/nav.ts
+  s_de87ccf88d98ee::t_891ec295349edc 1-5,8,12,19-20,24-25,32,40,42
+desk/src/lib/operating.ts
+  s_de87ccf88d98ee::t_42f4c8f5f9e5d3 61,63,85,92,94-95
+desk/src/lib/pipeline.test.ts
+  s_de87ccf88d98ee::t_3aa7e5c85e5133 46
+desk/src/lib/pipeline.ts
+  s_de87ccf88d98ee::t_2851ad9c0c4ad8 9,34,39
+desk/src/lib/ready.test.ts
+  s_de87ccf88d98ee::t_141bbdf8d1113e 3
+desk/src/lib/rows.test.ts
+  s_de87ccf88d98ee::t_aeb4476a85c833 127,179,186,206-207,244,246
+desk/src/lib/simplify.test.ts
+  s_de87ccf88d98ee::t_ae5622a67c5410 10
+desk/src/lib/stage-c.ts
+  s_de87ccf88d98ee::t_62d681c9d68040 66,148
+desk/src/lib/task-story.ts
+  s_de87ccf88d98ee::t_6fb46ae42fd051 28,79-80
+desk/src/pages/agents.tsx
+  s_de87ccf88d98ee::t_85efcf9102b699 4,11,18-19,23-24,27,32,49,59,71,84,101,103,132,136,146
+desk/src/pages/approvals.tsx
+  s_de87ccf88d98ee::t_24a19c478655f8 28-29,35-36,38,72-75,77,84-85,87,90-91
+desk/src/pages/automation.tsx
+  s_de87ccf88d98ee::t_86f6bcb5f58620 119,124,158,161-164,183-184,207,211-212,215-217,227
+desk/src/pages/control.tsx
+  s_de87ccf88d98ee::t_4980d40dde53e2 4,12-14,24,26,30-31,33-35
+desk/src/pages/finance.tsx
+  s_de87ccf88d98ee::t_c5b7fbdd6c5575 4,17,19-20,44,54-55,65,102,109,116
+desk/src/pages/growth.tsx
+  s_de87ccf88d98ee::t_dec8b0ce044898 10,77,83-84,102,111-112,117-118,135,137,139,153
+desk/src/pages/memory.tsx
+  s_de87ccf88d98ee::t_12fd1b087d17c5 8,53,56,59-60,96
+desk/src/pages/overview.tsx
+  s_de87ccf88d98ee::t_e77960627c4c55 1-6,8-11,13-14,16,18,20-27,33,37,39-40,43-45,51,53-58,60-75,79-88,90-101,105-106,110,112-132,134-139,144-146,148
+desk/src/pages/projects.tsx
+  s_de87ccf88d98ee::t_2ad808ebdeca1d 15,71,98,140-142,144,146,150-151,159,163,210,214,240,243,267
+desk/src/pages/stage-c.tsx
+  s_de87ccf88d98ee::t_3c8b8b5779c48d 5,26-27,75,80,93,99,113,116,137-139,141,143,162,164-165,169,171,184-186,196,205,208-214,225
+desk/src/pages/system.tsx
+  s_de87ccf88d98ee::t_88891214d74af7 36,76,87-89,108,146,150,156-180,203,205-207,210,226,245,265-266,275,279
+desk/src/pages/tasks.tsx
+  s_de87ccf88d98ee::t_f9ca1f5d3a0a31 1,3-4,7-9,45,88,90-91,102,134,156,164-167,170-176,187,203-204,216-218,229-231,246-247,251,258-271,278-279
+tests/fixtures/ci_snapshot/frontend.yml
+  s_de87ccf88d98ee::t_34115590e87f49 37-38,40-41
+tests/test_repo_guardian_github.py
+  s_de87ccf88d98ee::t_6ba017b4f3c627 154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5894a091946c803f0c752383b9d157935c380aab",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
