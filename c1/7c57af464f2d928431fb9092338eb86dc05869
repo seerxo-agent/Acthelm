@@ -1,0 +1,113 @@
+.github/CODEOWNERS
+  s_de87ccf88d98ee::t_5cf19432e19708 3-4
+Dockerfile
+  s_de87ccf88d98ee::t_a9737d95f47474 102
+agents/repository_guardian.yaml
+  s_de87ccf88d98ee::t_27611a0e9b7fca 31
+app/api_auth.py
+  s_de87ccf88d98ee::t_8dda9a0873c33e 58-59,130-131
+app/coder_diff.py
+  s_de87ccf88d98ee::t_426009d3f6ad84 76-133,170
+app/desk.py
+  s_de87ccf88d98ee::t_910e8876771a49 5,17-18,115-139,435-439,441-447,450,871-873,876
+app/main.py
+  s_de87ccf88d98ee::t_74b3ca52a7e834 765,1130-1161
+app/merge_authorization.py
+  s_de87ccf88d98ee::t_6b6c0c0c72e3b5 40-41,94-99
+app/metrics_store.py
+  s_de87ccf88d98ee::t_cd564f01efd410 150-173
+app/review_signer.py
+  s_de87ccf88d98ee::t_b0a07dd91876a8 19-20,37,41-42,149-151
+app/schemas.py
+  s_de87ccf88d98ee::t_f096e487129d87 326-332
+app/stage_c_ci.py
+  s_de87ccf88d98ee::t_e8705c1c11b15d 28,31,37-39,111-113,116-120,276-371,589,607-614,630
+app/stage_c_preflight.py
+  s_de87ccf88d98ee::t_fe517eed5e77f3 22,56,58-89
+app/stage_c_runner.py
+  s_de87ccf88d98ee::t_257722a8245902 509-571,870-880,915-921,936-937,1070,1198-1202
+app/stage_c_state.py
+  s_de87ccf88d98ee::t_c0b4c62da1b9d1 32,37-38,40-41,58-65,148,158-161,436-438
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_a45aa635c112c6 9-10,18,59,404-405,422-425,511-520,530,532-537,566-572,757,762,913-916,939-1033,1060
+app/watchdog.py
+  s_de87ccf88d98ee::t_9ad9b1a25ddb76 32,1060-1067,1070
+app/worker.py
+  s_de87ccf88d98ee::t_fd37c689bf60b2 44-48,226-238,335-337
+conftest.py
+  s_de87ccf88d98ee::t_034336c0e15a6f 19-26
+docker-compose.yml
+  s_de87ccf88d98ee::t_c7e60810068cb5 133-135
+docs/APPROVAL_IDENTITY.md
+  s_de87ccf88d98ee::t_621234fcb08bb5 61
+docs/PERMANENT_FACTS.md
+  s_de87ccf88d98ee::t_5978c35e53fe8f 14-15
+scripts/stage-c-host-wizard.sh
+  s_de87ccf88d98ee::t_c314862b1a0fca 324-325,327
+tests/conftest.py
+  s_de87ccf88d98ee::t_cbb05e1bf14a38 53
+tests/test_business_reconciler.py
+  s_de87ccf88d98ee::t_260104fb5f3067 384
+tests/test_desk_code_task.py
+  s_de87ccf88d98ee::t_2fcd9e73e24be5 1-79
+tests/test_desk_data_exposure.py
+  s_de87ccf88d98ee::t_b45185b9a2ae28 140-225,275-276
+tests/test_founder_authorization.py
+  s_de87ccf88d98ee::t_fda40554c8d08b 411-436
+tests/test_goals.py
+  s_de87ccf88d98ee::t_6a069b1126ebe6 78-89
+tests/test_metrics.py
+  s_de87ccf88d98ee::t_c5153de9045e5c 313-363,413-429
+tests/test_release_host.py
+  s_de87ccf88d98ee::t_2ac939bf0de385 449
+tests/test_repo_guardian_github.py
+  s_de87ccf88d98ee::t_c3d6214443b680 244
+tests/test_repository_identity.py
+  s_de87ccf88d98ee::t_834b97a38b155c 1-6,22,34
+tests/test_review_signer.py
+  s_de87ccf88d98ee::t_7347afca7f03b1 40,81-82,253,266,268,276,279,285-286,291-294,296,301,305,309,313,315-316,325,369-384
+tests/test_run_report_terminal_guard.py
+  s_de87ccf88d98ee::t_52ce15ae6ff7bb 75
+tests/test_seerxo_funnel.py
+  s_de87ccf88d98ee::t_7115474559f1a6 226
+tests/test_stage_c.py
+  s_de87ccf88d98ee::t_377bd3c5177033 132
+tests/test_stage_c_ci.py
+  s_de87ccf88d98ee::t_9b0668b70f2ff7 575-576
+tests/test_stage_c_ci_postgres.py
+  s_de87ccf88d98ee::t_a728abe1b83fa5 13-14,88-120
+tests/test_stage_c_hardening.py
+  s_de87ccf88d98ee::t_618c18c6847d36 16,623
+tests/test_stage_c_pr_token.py
+  s_de87ccf88d98ee::t_24103bed3681c7 10,47,84
+tests/test_stage_c_preflight.py
+  s_de87ccf88d98ee::t_61248a9e9e656c 70-114,204,234,249,330,503,598,648,662
+tests/test_stage_c_refresh_reconcile.py
+  s_de87ccf88d98ee::t_90739e7d20b577 1-633
+tests/test_stage_c_repair_feedback.py
+  s_de87ccf88d98ee::t_4423683b71de7b 21,79,241-243,245-250
+tests/test_stage_c_state.py
+  s_de87ccf88d98ee::t_5cd48a833039c8 88-103,110,133,143,406-407,419-420,756
+tests/test_stage_c_worker.py
+  s_de87ccf88d98ee::t_4c8c5c2ce1d81c 108,578,630,687,791,859-895,1282,1727-1730,1744-1746,2132,2272,2311-2433
+tests/test_stage_c_worker_postgres.py
+  s_de87ccf88d98ee::t_75ba3641e80bea 291-328
+tests/test_watchdog.py
+  s_de87ccf88d98ee::t_42fef4d086614a 212-214,219-221,229,232-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c17c57af464f2d928431fb9092338eb86dc05869",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
