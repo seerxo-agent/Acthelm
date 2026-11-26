@@ -1,0 +1,24 @@
+tests/test_stage_c_refresh_reconcile.py
+  s_de87ccf88d98ee::t_14a581789cf7ac 609-610,613-614,616-621
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_297d2154999541 1033
+  s_de87ccf88d98ee::t_7a0c0ff58752c9 1000-1002
+  s_de87ccf88d98ee::t_ef72368a11e9e6 1022-1024,1027-1031
+  s_de87ccf88d98ee::t_31e1af3460bcee 1032
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9aa86043be15714f1823d14a0517f8a823d59f68",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
