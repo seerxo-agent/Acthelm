@@ -1,0 +1,23 @@
+app/audit.py
+  s_de87ccf88d98ee::t_4fb1b72ad0b165 22-25,29-36
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_d6defb5654924d 77-80,353
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_077e2f77be10fd 1111-1146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "95cb344232ea480acceb908b553eb0a30ca8528b",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
