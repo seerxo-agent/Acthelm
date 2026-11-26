@@ -1,0 +1,115 @@
+.github/CODEOWNERS
+  s_de87ccf88d98ee::t_7f4b1b84f230f1 3-4
+Dockerfile
+  s_de87ccf88d98ee::t_3b38e99052624b 102
+agents/repository_guardian.yaml
+  s_de87ccf88d98ee::t_98231be4fb4915 31
+app/api_auth.py
+  s_de87ccf88d98ee::t_c6cfc1fdc6b274 58-59,130-131
+app/coder_diff.py
+  s_de87ccf88d98ee::t_ff8647d20c529b 76-133,170
+app/desk.py
+  s_de87ccf88d98ee::t_4acc0acc50b953 5,17-18,115-139,435-439,441-447,450,871-873,876
+app/main.py
+  s_de87ccf88d98ee::t_106d8e8eba06c0 765,1130-1161
+app/merge_authorization.py
+  s_de87ccf88d98ee::t_5c3367a64efc10 40-41,94-99
+app/metrics_store.py
+  s_de87ccf88d98ee::t_15c6af9a086455 150-173
+app/review_signer.py
+  s_de87ccf88d98ee::t_13c01e67df304d 19-20,37,41-42,149-151
+app/schemas.py
+  s_de87ccf88d98ee::t_a169e3b85f1b07 326-332
+app/stage_c_ci.py
+  s_de87ccf88d98ee::t_910de48248b751 28,31,37-39,111-113,116-120,276-371,589,607-614,630
+app/stage_c_preflight.py
+  s_de87ccf88d98ee::t_1314b7b5c5b926 22,56,58-89
+app/stage_c_runner.py
+  s_de87ccf88d98ee::t_fad212642afee2 509-571,870-880,915-921,936-937,1070,1198-1202
+app/stage_c_state.py
+  s_de87ccf88d98ee::t_f7552a9f81e991 32,37-38,40-41,58-65,148,158-161,436-438
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_2e8ddf63ce4a34 9-10,18,59,404-405,422-425,511-520,530,532-537,566-572,757,762,913-916,939-1033,1060
+app/watchdog.py
+  s_de87ccf88d98ee::t_849efa15bc665c 32,1060-1067,1070
+app/worker.py
+  s_de87ccf88d98ee::t_c8c86857fe2780 44-48,226-238,335-337
+conftest.py
+  s_de87ccf88d98ee::t_4c46a710bd2fc8 19-26
+docker-compose.yml
+  s_de87ccf88d98ee::t_0be562ad379007 133-135
+docs/APPROVAL_IDENTITY.md
+  s_de87ccf88d98ee::t_5404c553ddcc86 61
+docs/PERMANENT_FACTS.md
+  s_de87ccf88d98ee::t_bef7bcec48b259 14-15
+requirements.txt
+  s_de87ccf88d98ee::t_bbb7a154eaa75a 26
+scripts/stage-c-host-wizard.sh
+  s_de87ccf88d98ee::t_5d713c13a6fb87 324-325,327
+tests/conftest.py
+  s_de87ccf88d98ee::t_fa309dbc26e33a 53
+tests/test_business_reconciler.py
+  s_de87ccf88d98ee::t_99edcf706b3df2 384
+tests/test_desk_code_task.py
+  s_de87ccf88d98ee::t_e748feff084cbb 1-79
+tests/test_desk_data_exposure.py
+  s_de87ccf88d98ee::t_a29a33db48705c 140-225,275-276
+tests/test_founder_authorization.py
+  s_de87ccf88d98ee::t_8b7e2bc4a7618a 411-436
+tests/test_goals.py
+  s_de87ccf88d98ee::t_6996c757d298e4 78-89
+tests/test_metrics.py
+  s_de87ccf88d98ee::t_8428ff2fff7ac1 313-363,413-429
+tests/test_release_host.py
+  s_de87ccf88d98ee::t_c58c77408b9e7e 449
+tests/test_repo_guardian_github.py
+  s_de87ccf88d98ee::t_40af7aaf59e5a5 244
+tests/test_repository_identity.py
+  s_de87ccf88d98ee::t_c73bc95b9efae2 1-6,22,34
+tests/test_review_signer.py
+  s_de87ccf88d98ee::t_cc793c1e15d04d 40,81-82,253,266,268,276,279,285-286,291-294,296,301,305,309,313,315-316,325,369-384
+tests/test_run_report_terminal_guard.py
+  s_de87ccf88d98ee::t_7cfd8480df9ffa 75
+tests/test_seerxo_funnel.py
+  s_de87ccf88d98ee::t_597d41fab57087 226
+tests/test_stage_c.py
+  s_de87ccf88d98ee::t_a91e3e4cd93421 132
+tests/test_stage_c_ci.py
+  s_de87ccf88d98ee::t_58834ac42fed65 575-576
+tests/test_stage_c_ci_postgres.py
+  s_de87ccf88d98ee::t_026b5f6cdca409 13-14,88-120
+tests/test_stage_c_hardening.py
+  s_de87ccf88d98ee::t_321f9ebf001b97 16,623
+tests/test_stage_c_pr_token.py
+  s_de87ccf88d98ee::t_6fc07cba6c10ac 10,47,84
+tests/test_stage_c_preflight.py
+  s_de87ccf88d98ee::t_efdb86ea0e9f8f 70-114,204,234,249,330,503,598,648,662
+tests/test_stage_c_refresh_reconcile.py
+  s_de87ccf88d98ee::t_0597991b7fa06b 1-633
+tests/test_stage_c_repair_feedback.py
+  s_de87ccf88d98ee::t_020a60bf093c68 21,79,241-243,245-250
+tests/test_stage_c_state.py
+  s_de87ccf88d98ee::t_d7252caf574000 88-103,110,133,143,406-407,419-420,756
+tests/test_stage_c_worker.py
+  s_de87ccf88d98ee::t_d24367a8287094 108,578,630,687,791,859-895,1282,1727-1730,1744-1746,2132,2272,2311-2433
+tests/test_stage_c_worker_postgres.py
+  s_de87ccf88d98ee::t_75cfbdf18bb228 291-328
+tests/test_watchdog.py
+  s_de87ccf88d98ee::t_8e7c9138b2eb1e 212-214,219-221,229,232-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c5bceb93a981bfc2f30e90ff241cbbc6bc613122",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
