@@ -1,0 +1,21 @@
+docker-compose.yml
+  s_de87ccf88d98ee::t_973b99fbca1ea1 62-67,148-154
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_05849f9cf2b645 1049-1064
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ee20da5f8f7fb7f612afc8cfa7083a61459cdd21",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
