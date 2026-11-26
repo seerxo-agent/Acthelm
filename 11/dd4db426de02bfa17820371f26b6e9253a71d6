@@ -1,0 +1,45 @@
+app/api_auth.py
+  s_de87ccf88d98ee::t_a8765ac7ea8362 63-71,73,132-134,216-220
+app/audit.py
+  s_de87ccf88d98ee::t_bb3a4b333243a1 21-25
+app/control.py
+  s_de87ccf88d98ee::t_2d9dfd552058df 14,167-168,171-173,179-181,186-193,196,217-219,223-224,312,317-320,388,392-400
+app/desk.py
+  s_de87ccf88d98ee::t_3a7a37b8ffd0b3 16-17,84-91,835-838
+app/main.py
+  s_de87ccf88d98ee::t_e6ac948c7f5d71 19,26,781-786,876-878,1118-1119,1122-1123,1177-1276
+app/models.py
+  s_de87ccf88d98ee::t_217903e01507cc 7,9,189-212
+app/schemas.py
+  s_de87ccf88d98ee::t_bd72097e8cdaf3 2,302-323,333-341
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_9d50672301d92b 1-1158
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_8e2e89b123d9c3 101-105,111,114,118-127
+app/worker.py
+  s_de87ccf88d98ee::t_b2cd043ccfac46 31,237-238,440,1259-1267
+migrations/versions/b5a7c1e3d902_task_revision.py
+  s_de87ccf88d98ee::t_3774c5f8f79bef 1-24
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_7f5643450806da 1-928
+tests/test_stage_c_handoff_postgres.py
+  s_de87ccf88d98ee::t_6fa423d976ab29 1-134
+tests/test_stage_c_state.py
+  s_de87ccf88d98ee::t_90e1888f93f0b2 21-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "11dd4db426de02bfa17820371f26b6e9253a71d6",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
