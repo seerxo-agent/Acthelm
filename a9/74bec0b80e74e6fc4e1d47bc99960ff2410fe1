@@ -1,0 +1,28 @@
+docs/CODER_RUNTIME.md
+  s_de87ccf88d98ee::t_617ff5809878b2 310-318
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_814bf822840831 346-407
+  s_de87ccf88d98ee::t_3cdd9fd7e2e7b8 157-159
+tests/test_stage_c_standing.py
+  s_de87ccf88d98ee::t_814bf822840831 467-487
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_695d0c808e8de7 154
+  s_de87ccf88d98ee::t_c244dc06b80820 11-14,20,24-25,121-123,125,127-129,141,147-153
+  s_de87ccf88d98ee::t_617ff5809878b2 102,124,126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a974bec0b80e74e6fc4e1d47bc99960ff2410fe1",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
