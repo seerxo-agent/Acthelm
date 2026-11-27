@@ -2,15 +2,18 @@ tests/test_stage_c_standing.py
   s_de87ccf88d98ee::t_814bf822840831 467-487
 docs/CODER_RUNTIME.md
   s_de87ccf88d98ee::t_617ff5809878b2 315-321
+  s_de87ccf88d98ee::t_4a41801adbc6ec 332
 scripts/stage-c-arm
   s_de87ccf88d98ee::t_617ff5809878b2 160,186,189
   s_de87ccf88d98ee::t_c244dc06b80820 11-14,20,24-25,183-185,188,190-192,204,215-217
   s_de87ccf88d98ee::t_695d0c808e8de7 218
   s_de87ccf88d98ee::t_e86dc2b102ea03 240-241
   s_de87ccf88d98ee::t_1435194c28c8e2 93-96
+  s_de87ccf88d98ee::t_4a41801adbc6ec 34-35,104-105,112,114-115,157-158,252-253,267-268
 tests/test_stage_c_arm.py
   s_de87ccf88d98ee::t_814bf822840831 367-413,415-427
   s_de87ccf88d98ee::t_1435194c28c8e2 102,154-156,558-594
+  s_de87ccf88d98ee::t_4a41801adbc6ec 118-122,130-132,252,556-557
 app/api_auth.py
   s_de87ccf88d98ee::t_e941f07f67355c 64-71,74,76,136-137,221-225
   s_de87ccf88d98ee::t_967d5f9e5e7c1a 58-59,132-133
@@ -178,6 +181,8 @@ scripts/phasec-e2e-check.py
   s_de87ccf88d98ee::t_1435194c28c8e2 1-241
 tests/test_pilot_check.py
   s_de87ccf88d98ee::t_1435194c28c8e2 1-85
+scripts/systemd/stage-c-arm.service
+  s_de87ccf88d98ee::t_4a41801adbc6ec 12
 ---
 {
   "schema_version": "authorship/3.0.0",
