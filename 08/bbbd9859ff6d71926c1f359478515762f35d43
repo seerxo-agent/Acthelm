@@ -1,0 +1,32 @@
+scripts/systemd/stage-c-arm.service
+  s_de87ccf88d98ee::t_f6d323989a0406 14
+  s_de87ccf88d98ee::t_2df6abc4c19143 12
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_2df6abc4c19143 34-35
+  s_de87ccf88d98ee::t_32062c55f2ebdb 37-40,42-43,47-50,57-59,101,104,107,110-115,135,147,151,159,179,203-204,212-213,215-218
+  s_de87ccf88d98ee::t_fe8ad9d49baa5f 27-30,62,116-128,130-132,137-140,182-185,206-211,214,230
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_80cd3804747ef1 151,160,402,496-497
+  s_de87ccf88d98ee::t_a63db4ec3dacc1 136-137,162,311,326,416
+  s_de87ccf88d98ee::t_2df6abc4c19143 117-122,140,240,428,434,437-495,498-515
+  s_de87ccf88d98ee::t_60a2e25bfac094 114,417-427,429-433,435-436
+docs/CODER_RUNTIME.md
+  s_de87ccf88d98ee::t_1909b72999ec22 301-302,305-306,329-334
+  s_de87ccf88d98ee::t_f98183fe489390 307-311,321-323
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "08bbbd9859ff6d71926c1f359478515762f35d43",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
