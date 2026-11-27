@@ -1,0 +1,21 @@
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_e09dd8964d448a 35,52-53
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_e09dd8964d448a 109-110,169,519-521
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eb56cfebf9665d0ce9e1fbd087bfdf135421ede4",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
