@@ -1,0 +1,148 @@
+tests/test_stage_c_standing.py
+  s_de87ccf88d98ee::t_814bf822840831 467-487
+docs/CODER_RUNTIME.md
+  s_de87ccf88d98ee::t_617ff5809878b2 315-321
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_617ff5809878b2 153,179,182
+  s_de87ccf88d98ee::t_c244dc06b80820 11-14,20,24-25,176-178,181,183-185,197,208-210
+  s_de87ccf88d98ee::t_695d0c808e8de7 211
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_814bf822840831 363-409,411-423
+app/api_auth.py
+  s_de87ccf88d98ee::t_e941f07f67355c 64-72,74,134-136,218-222
+  s_de87ccf88d98ee::t_967d5f9e5e7c1a 58-59,130-131
+app/audit.py
+  s_de87ccf88d98ee::t_f5552760f82593 21-25,29-36
+app/control.py
+  s_de87ccf88d98ee::t_59eeb12aedc9cf 14,167-168,171-173,179-181,186-193,196,217-219,223-224,312,317-320,388,392-400
+app/desk.py
+  s_de87ccf88d98ee::t_c7c31cf8275565 85-92,877-880
+  s_de87ccf88d98ee::t_770b9d8891180f 5,17-18,115-139,435-439,441-447,450,871-873,876
+app/main.py
+  s_de87ccf88d98ee::t_45ce222436af40 19,26,781-786,876-878,1118-1119,1122-1123,1209-1308
+  s_de87ccf88d98ee::t_604cbf54873184 765,1130-1161
+app/models.py
+  s_de87ccf88d98ee::t_f1c3a3f26f5cb6 7,9,189-212
+app/schemas.py
+  s_de87ccf88d98ee::t_b851075bbbe588 2,302-323,340-348
+  s_de87ccf88d98ee::t_53f7382b63f99d 326-332
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_740035a3515bfb 1-1224
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_cff9d01e3fdab8 104-108,114,117,121-130
+  s_de87ccf88d98ee::t_855e67e36c7eb0 9-10,18,59,404-405,422-425,511-520,530,532-537,566-572,757,762,913-916,939-1033,1060
+app/worker.py
+  s_de87ccf88d98ee::t_bc130cd5ddb07d 31,255-256,461,1280-1288
+  s_de87ccf88d98ee::t_a8b2a3052f09b4 44-48,226-238,335-337
+migrations/versions/b5a7c1e3d902_task_revision.py
+  s_de87ccf88d98ee::t_4b4adb71930a9b 1-24
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_2a17e3cb763770 1-1168
+tests/test_stage_c_handoff_postgres.py
+  s_de87ccf88d98ee::t_78acd693cb3523 1-134
+tests/test_stage_c_state.py
+  s_de87ccf88d98ee::t_d7c92f0761a37f 88-103,110,133,143,406-407,419-420,756
+tests/test_stage_c_refresh_reconcile.py
+  s_de87ccf88d98ee::t_8c1e6a9d45c735 1-127,129-588,590-633
+  s_de87ccf88d98ee::t_156df9eae7668e 128,589
+tests/test_stage_c_ci.py
+  s_de87ccf88d98ee::t_296e84141d8b46 575-576
+tests/test_stage_c_pr_token.py
+  s_de87ccf88d98ee::t_762e62e36b4957 10,47,84
+tests/test_run_report_terminal_guard.py
+  s_de87ccf88d98ee::t_156df9eae7668e 75
+  s_de87ccf88d98ee::t_13541988480695 73
+tests/test_repo_guardian_github.py
+  s_de87ccf88d98ee::t_64f213a6e595e9 244
+tests/test_stage_c_ci_postgres.py
+  s_de87ccf88d98ee::t_e73d127706d6a3 13-14,88-120
+app/stage_c_preflight.py
+  s_de87ccf88d98ee::t_1b2646bafae972 22,56,58-89
+tests/test_business_reconciler.py
+  s_de87ccf88d98ee::t_156df9eae7668e 385
+  s_de87ccf88d98ee::t_13541988480695 382-383
+app/stage_c_runner.py
+  s_de87ccf88d98ee::t_982819c04c44d7 509-571,870-880,915-921,936-937,1070,1198-1202
+tests/test_desk_code_task.py
+  s_de87ccf88d98ee::t_6f0340d1b152d1 1-79
+docs/PERMANENT_FACTS.md
+  s_de87ccf88d98ee::t_8895925272c559 14-15
+tests/test_watchdog.py
+  s_de87ccf88d98ee::t_8f301df14eace8 212-214,219-221,229,232-237
+app/stage_c_state.py
+  s_de87ccf88d98ee::t_24d8c937020080 32,37-38,40-41,58-65,148,158-161,436-438
+.github/CODEOWNERS
+  s_de87ccf88d98ee::t_361bb4cc99cb05 3-4
+conftest.py
+  s_de87ccf88d98ee::t_1b396318421974 19-26
+tests/test_review_signer.py
+  s_de87ccf88d98ee::t_f3a28b1a23ea1f 40,81-82,253,266,268,276,279,285-286,291-294,296,301,305,309,313,315-316,325,369-384
+tests/test_stage_c_repair_feedback.py
+  s_de87ccf88d98ee::t_c51176e039792c 21,79,241-243,245-250
+tests/test_repository_identity.py
+  s_de87ccf88d98ee::t_aa626056c76eb0 1-6,22,34
+app/coder_diff.py
+  s_de87ccf88d98ee::t_87671f1911b1cd 76-133,170
+tests/test_founder_authorization.py
+  s_de87ccf88d98ee::t_e697b1175296da 411-436
+tests/test_seerxo_funnel.py
+  s_de87ccf88d98ee::t_156df9eae7668e 226
+docker-compose.yml
+  s_de87ccf88d98ee::t_45a8273c885616 133-135
+Dockerfile
+  s_de87ccf88d98ee::t_643e659e4540ad 102
+scripts/stage-c-host-wizard.sh
+  s_de87ccf88d98ee::t_fbf644b0f9e564 324-325,327
+tests/test_desk_data_exposure.py
+  s_de87ccf88d98ee::t_57c6b8419667ea 140-225,275-276
+tests/test_stage_c_worker_postgres.py
+  s_de87ccf88d98ee::t_61f82d039653fa 291-328
+app/watchdog.py
+  s_de87ccf88d98ee::t_5ff678369dccaf 32,1060-1067,1070
+app/merge_authorization.py
+  s_de87ccf88d98ee::t_5cf969305381ad 40-41,94-99
+tests/test_stage_c_hardening.py
+  s_de87ccf88d98ee::t_4c82f878be0f3a 16
+  s_de87ccf88d98ee::t_156df9eae7668e 623
+app/metrics_store.py
+  s_de87ccf88d98ee::t_13342501e28608 150-173
+tests/conftest.py
+  s_de87ccf88d98ee::t_d95c61fc1a135d 53
+tests/test_stage_c.py
+  s_de87ccf88d98ee::t_4ac12f30c52af9 132
+tests/test_goals.py
+  s_de87ccf88d98ee::t_272b4f6a998082 78-89
+agents/repository_guardian.yaml
+  s_de87ccf88d98ee::t_bf2ab1187271fa 31
+tests/test_stage_c_worker.py
+  s_de87ccf88d98ee::t_156df9eae7668e 578
+  s_de87ccf88d98ee::t_a4fa9912be1669 108,630,687,791,859-895,1282,1727-1730,1744-1746,2132,2272,2311-2433
+app/review_signer.py
+  s_de87ccf88d98ee::t_ebe1afb7ba09df 19-20,37,41-42,149-151
+docs/APPROVAL_IDENTITY.md
+  s_de87ccf88d98ee::t_76bcc982fd3535 61
+tests/test_metrics.py
+  s_de87ccf88d98ee::t_2ca07a73da6cfa 313-363,413-429
+tests/test_stage_c_preflight.py
+  s_de87ccf88d98ee::t_d92af19bd0f460 70-114,204,234,249,330,503,598,648,662
+tests/test_release_host.py
+  s_de87ccf88d98ee::t_156df9eae7668e 449
+app/stage_c_ci.py
+  s_de87ccf88d98ee::t_27b9fac040974b 28,31,37-39,111-113,116-120,276-371,589,607-614,630
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "363bc0af2c607321b5fa592ab00d1aaac71844fd",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
