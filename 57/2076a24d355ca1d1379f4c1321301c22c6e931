@@ -10,6 +10,7 @@ scripts/stage-c-arm
   s_de87ccf88d98ee::t_4a41801adbc6ec 34,104-105,112,114-115,157-158,252-253,267-268
   s_de87ccf88d98ee::t_e86dc2b102ea03 240-241
   s_de87ccf88d98ee::t_1435194c28c8e2 93-96
+  s_de87ccf88d98ee::t_7acf910a1b2cbd 35
 tests/test_stage_c_arm.py
   s_de87ccf88d98ee::t_814bf822840831 369-415,417-429
   s_de87ccf88d98ee::t_1435194c28c8e2 102,155-157,562-598
