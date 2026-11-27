@@ -1,0 +1,42 @@
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_cc2ff5466fad1f 112-114,128-129,244,246,522-540,542-545,547-549
+  s_de87ccf88d98ee::t_2df6abc4c19143 122-127,145,434,440,443-501,504-521
+  s_de87ccf88d98ee::t_80cd3804747ef1 156,165,408,502-503
+  s_de87ccf88d98ee::t_b53ac89f6ae570 546
+  s_de87ccf88d98ee::t_291b4cb4e7fcaa 119-121,541
+  s_de87ccf88d98ee::t_60a2e25bfac094 116,423-433,435-439,441-442
+  s_de87ccf88d98ee::t_a63db4ec3dacc1 141-142,167,317,332,422
+  s_de87ccf88d98ee::t_4ab1512495d878 118
+docs/CODER_RUNTIME.md
+  s_de87ccf88d98ee::t_1909b72999ec22 301-302,305-306,333-335
+  s_de87ccf88d98ee::t_cc2ff5466fad1f 331
+  s_de87ccf88d98ee::t_41fb098e187b28 324,326,336
+  s_de87ccf88d98ee::t_291b4cb4e7fcaa 332
+  s_de87ccf88d98ee::t_f98183fe489390 307-311,322-323
+  s_de87ccf88d98ee::t_3659427efc1c89 312,327
+scripts/systemd/stage-c-arm.service
+  s_de87ccf88d98ee::t_cc2ff5466fad1f 12
+  s_de87ccf88d98ee::t_291b4cb4e7fcaa 14
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_89f5ad1f0b4342 49-51,57,61,68-70,81,83,85-86,98,103-106,108-109,112-114
+  s_de87ccf88d98ee::t_cc2ff5466fad1f 34,227-232,241-242,247-248
+  s_de87ccf88d98ee::t_291b4cb4e7fcaa 35-36,52-53,97,99-100,110-111,126-133,152,155,165,168,172,199,201,260-261
+  s_de87ccf88d98ee::t_32062c55f2ebdb 38-41,43-44,48,60,62,117,120,123-125,180,225-226,240,244-246
+  s_de87ccf88d98ee::t_fe8ad9d49baa5f 27-30,65,136-147,149-151,157-160,204-207,234-239,243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5c982383cf00a176a8cb7c4e07b21faed00dc5c1",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
