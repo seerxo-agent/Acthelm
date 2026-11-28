@@ -1,0 +1,29 @@
+app/control.py
+  s_de87ccf88d98ee::t_a42e4bdfb33d5e 208-219
+app/main.py
+  s_de87ccf88d98ee::t_ef4847316306f4 788-791,816-824
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_cd864c0a291779 471-476,500-515,661-665,762-771,826,832,835-838,1376-1381,1387,1389-1390
+tests/test_b5.py
+  s_de87ccf88d98ee::t_6161e83e803106 470,487,520,562,589,604,633,655,692-693,718,787,912,1019,1063,1078,1101,1111,1155,1190,1220,1250,1265,1276,1379-1380,1513-1579
+tests/test_b5_pg.py
+  s_de87ccf88d98ee::t_e35815d01c24bd 105,211-233
+tests/test_phasec_e2e_flow.py
+  s_de87ccf88d98ee::t_c7afe09e8faee0 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "588d09a5ec3a5ddcefa7b1fdbe7367b8adf2731e",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
