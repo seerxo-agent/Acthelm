@@ -1,0 +1,29 @@
+app/control.py
+  s_de87ccf88d98ee::t_dd906aa778049a 336,412
+app/main.py
+  s_de87ccf88d98ee::t_89ef1db9afa5fa 744,793-800,1277-1278
+app/schemas.py
+  s_de87ccf88d98ee::t_78b00d0edc5640 318
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_cd1cf5b9add7df 67-73,336-337,457-458,472-479,483-484,506-507,723-730,745-746,788-789,791-796,882-883,888-898,1197-1211,1215-1216,1232,1234-1235,1241,1256,1340,1342-1343,1358-1359,1382-1383
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_0789b2679d812e 421,508,525,563,591,816,873,879,935,937-940,955,1268-1274,1325-1374
+tests/test_stage_c_handoff_postgres.py
+  s_de87ccf88d98ee::t_bede271c93a733 57,146,184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cc62633bac3d1f2675e359e67099e48bbcf4542a",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
