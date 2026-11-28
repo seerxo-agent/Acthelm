@@ -1,0 +1,29 @@
+app/control.py
+  s_fdb60d79a07d60::t_0042a97a8da6cb 208-219
+tests/test_b5.py
+  s_de87ccf88d98ee::t_b3c5d74da447a6 400,513,991,1035,1422-1441
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "63a29362c4a2526c314e0661aae95d0a75070131",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    },
+    "s_fdb60d79a07d60": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f2e071d5-9aa8-4e56-973c-66590fe8a906",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
