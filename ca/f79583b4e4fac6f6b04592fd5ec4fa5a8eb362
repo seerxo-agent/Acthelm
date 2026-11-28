@@ -1,0 +1,19 @@
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_3f192e7ca12bda 1375-1401
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "caf79583b4e4fac6f6b04592fd5ec4fa5a8eb362",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
