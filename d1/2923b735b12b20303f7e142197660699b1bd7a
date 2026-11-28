@@ -1,0 +1,45 @@
+app/control.py
+  s_de87ccf88d98ee::t_47d999fb423dcc 179-188,194-197,199-202,216-217,336,412
+app/main.py
+  s_de87ccf88d98ee::t_010e3b6b5eee16 770,783-792,822-830,1348-1349
+app/schemas.py
+  s_de87ccf88d98ee::t_51b9b210dca470 318
+app/stage_c.py
+  s_de87ccf88d98ee::t_ce84b6d80bd860 76-79,87-89
+app/stage_c_arm.py
+  s_de87ccf88d98ee::t_78453f45240744 23-29,31-36,43-44,46-48,51
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_528cfe83473624 69,79-85,356-357,470-478,480-506,509-517,526-527,612-616,660-662,664,695-697,743-756,769-770,777-786,812-813,815-820,956-989,993-997,1006-1016,1018-1022,1024-1026,1086-1089,1104,1108-1110,1151,1163-1181,1284-1298,1302-1303,1319,1321-1322,1328,1343,1457,1459-1460,1475-1476,1499-1500
+app/stage_c_runner.py
+  s_de87ccf88d98ee::t_f25641ed29249b 159-160,167,934,956
+app/stage_c_worker.py
+  s_de87ccf88d98ee::t_6a4048b288c28b 378,438-439
+docs/CODER_RUNTIME.md
+  s_de87ccf88d98ee::t_f3c921a29650f0 301-303,328-338,351-352
+scripts/stage-c-arm
+  s_de87ccf88d98ee::t_3308870e307eed 29-31,34,42,55-56,89-95,97,99-107,143-144,153-156,158,195-200,292-300,311-317,323-324
+scripts/systemd/stage-c-arm.service
+  s_de87ccf88d98ee::t_2d2faaae7bccda 12-14
+tests/test_stage_c_arm.py
+  s_de87ccf88d98ee::t_b34397fd05ba5b 19-23,30-31,33-36,42-43,66-70,86-90,130,132-133,135-136,151,169,215,274,278-280,315-317,319,323,334,621-623,658,704-740
+tests/test_stage_c_handoff.py
+  s_de87ccf88d98ee::t_6efe4d65e9c36f 117-118,541,628,645,683,711,936,993,999,1055,1057-1060,1075,1080,1086-1087,1089-1090,1095,1296-1297,1312-1510
+tests/test_stage_c_handoff_postgres.py
+  s_de87ccf88d98ee::t_b2a3da1505c9fd 57,120,135-210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d12923b735b12b20303f7e142197660699b1bd7a",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
