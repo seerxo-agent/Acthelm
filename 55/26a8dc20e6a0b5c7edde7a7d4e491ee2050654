@@ -1,0 +1,25 @@
+app/main.py
+  s_de87ccf88d98ee::t_eb816e83241953 762-765,786-794
+app/stage_c_handoff.py
+  s_de87ccf88d98ee::t_863920ec688797 451-456,480-495,639-643,803,809,812-815,1290-1295,1301,1303-1304
+tests/test_b5.py
+  s_de87ccf88d98ee::t_22264ce6634b54 350,367,400,442,469,484,513,535,572-573,598,667,792,899,943,958,981,991,1035,1070,1100,1130,1145,1156,1375-1418
+tests/test_b5_pg.py
+  s_de87ccf88d98ee::t_9d6f937b85daf3 105,211-233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5526a8dc20e6a0b5c7edde7a7d4e491ee2050654",
+  "prompts": {},
+  "sessions": {
+    "s_de87ccf88d98ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbc1d01a-b96b-47ef-97ea-d773ed933256",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "seerxo-agent <info@seerxo.com>"
+    }
+  }
+}
